@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoMysqli</string>
+    <string name="nama">Nama</string>
+    <string name="insert">INSERT</string>
+    <string name="password">Password</string>
+    <string name="contact">Contact</string>
+    <string name="country">Country</string>
+    <string name="go_to_register">Go To Register</string>
+</resources>
